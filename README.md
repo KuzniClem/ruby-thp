@@ -1,1 +1,1 @@
-# ruby-thp
+All of the answers to the questions of the ruby execices are in the program files as comments.
